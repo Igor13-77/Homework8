@@ -1,0 +1,15 @@
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+D:\Учёба\Homework8\Homework8\Task58\bin\Debug\net6.0\Task58.exe
+D:\Учёба\Homework8\Homework8\Task58\bin\Debug\net6.0\Task58.deps.json
+D:\Учёба\Homework8\Homework8\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+D:\Учёба\Homework8\Homework8\Task58\bin\Debug\net6.0\Task58.dll
+D:\Учёба\Homework8\Homework8\Task58\bin\Debug\net6.0\Task58.pdb
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.dll
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\refint\Task58.dll
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.pdb
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+D:\Учёба\Homework8\Homework8\Task58\obj\Debug\net6.0\ref\Task58.dll
